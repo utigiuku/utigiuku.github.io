@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://utigiuku.github.io/VwE/sitemap_index.txt.gz
+Sitemap: https://utigiuku.github.io/aLh/sitemap_index.txt.gz
+Sitemap: https://utigiuku.github.io/eOm/sitemap_index.txt.gz
+Sitemap: https://utigiuku.github.io/gdi/sitemap_index.txt.gz
+Sitemap: https://utigiuku.github.io/jBa/sitemap_index.txt.gz
